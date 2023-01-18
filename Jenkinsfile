@@ -1,6 +1,6 @@
 pipeline{
     agent {
-        label 'jenkins-slave-1'
+        label 'jenkins-slave-2'
     }
         stages{
             stage('Build-System details'){
